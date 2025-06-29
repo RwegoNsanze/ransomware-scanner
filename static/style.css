@@ -1,0 +1,13 @@
+.result {
+  margin-bottom: 15px;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+.clean {
+  background-color: #e6ffe6;
+}
+.threat {
+  background-color: #ffe6e6;
+  color: red;
+}
