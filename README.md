@@ -21,6 +21,7 @@ A simple yet effective web-based ransomware detection tool presented by Rwego Ns
 - **JavaScript**
 
 ## 📁 Project Structure
+```
 ransomware-scanner/
 ├── app.py # Flask server
 ├── create_dummy_threats.py# Test data generator
@@ -28,7 +29,7 @@ ransomware-scanner/
 │ └── style.css # (Optional) CSS
 ├── templates/
 │ └── index.html # Main UI
-└── README.md # About my project
+└── README.md # About my project ```
 
 
 ## 🧪 Running the App
