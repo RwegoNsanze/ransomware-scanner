@@ -42,3 +42,5 @@ pip install flask
 python app.py
 
 http://localhost:5000
+
+GitHub: https://github.com/RwegoNsanze/ransomware-scanner.git
